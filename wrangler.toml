@@ -1,4 +1,7 @@
-name = 'golgan-van-bot'
+name = "golgan-van-bot"
 main = "./src/server.js"
-compatibility_date="2023-05-18"
-# trying again
+compatibility_date = "2023-05-18"
+
+[vars]
+DISCORD_APPLICATION_ID = "1558832707276902551"
+DISCORD_PUBLIC_KEY = "909b3516b0afedd8851ba99c9f1a8a735cbe190fdde86a9f010e4cbfe948e2c3"
